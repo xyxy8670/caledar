@@ -1,8 +1,7 @@
 streamlit
-matplotlib
-squarify
-numpy
 pandas
-openpyxl
+calendar
+datetime
+BytesIO
 
 
